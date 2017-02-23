@@ -1,0 +1,6 @@
+io:format("Loading .erlang from ~p~n",
+          [element(2, file:get_cwd())]).
+%% Change the line below to the path to where you store your code.
+%% Note: Erlang is not a good Windows citizen, so use forward slashes
+c:cd("c:/Dropbox (Personal)/repogit/erlang").
+io:format("Now in: ~p~n", [element(2, file:get_cwd())]).

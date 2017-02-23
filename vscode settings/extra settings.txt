@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.autoSave": "afterDelay",
+    "http.proxy": "http://a127314:Mordeja6@proxybc203.arg.igrupobbva:8080",
+    "https.proxy": "http://a127314:Mordeja6@proxybc203.arg.igrupobbva:8080",
+   "terminal.integrated.shell.windows":  "C:\\Program Files\\erl8.2\\bin\\erl.exe", 
+   "terminal.integrated.cwd": "c:\\Dropbox\\proyects\\erlang",
+"erlang.executablePath": "C:\\Program Files\\erl8.2\\bin\\erl.exe",
+"erlang.erlangPath": "C:\\Program Files\\erl8.2\\bin\\erl.exe"
+}
